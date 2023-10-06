@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kuber Shahi
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kuber
+last_name: Shahi
 
 # Status emoji
 status:
