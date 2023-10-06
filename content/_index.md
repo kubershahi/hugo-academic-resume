@@ -205,6 +205,7 @@ sections:
       columns: '2'
   - block: contact
     id: contact
+    title: Contact
     content:
       email: shahikuber97@gmail.com
       contact_links:
