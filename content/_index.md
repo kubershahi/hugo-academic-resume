@@ -205,8 +205,8 @@ sections:
       columns: '2'
   - block: contact
     id: contact
-    title: Contact
     content:
+      title: Contact
       email: shahikuber97@gmail.com
       contact_links:
         - icon: twitter
@@ -220,13 +220,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
