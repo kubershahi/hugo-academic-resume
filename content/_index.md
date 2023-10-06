@@ -206,18 +206,16 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle:
       email: shahikuber97@gmail.com
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/kubershahi'
+          link: 'https://twitter.com/_shahikuber'
         - icon: linkedin
           icon_pack: fab
           name: Connect with me
-          link: https://linkedin.com/kubershahi
+          link: https://linkedin.com/in/kubershahi
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
