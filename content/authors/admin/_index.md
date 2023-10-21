@@ -82,5 +82,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I currently work as a Data Scientist at [Vayana Network.]{https://vayana.com} At work, I analyze and interpret company's data to identify key patterns, trends and possible avenues for business growth strategies. 
+
+I am broadly interested in machine learning and its intersection with vision, language, healthcare, and other areas, with a focus on building inclusive and accessible language and vision models that can be applied across diverse domains and languages. 
+
 {style="text-align: justify;"}
