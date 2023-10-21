@@ -27,7 +27,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Deep Learning
+  - Machine Learning
   - Natural Language Processing
   - Computer Vision
 
@@ -82,7 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-I currently work as a Data Scientist at [Vayana Network.]{https://vayana.com} At work, I analyze and interpret company's data to identify key patterns, trends and possible avenues for business growth strategies. 
+I currently work as a Data Scientist at [Vayana Network](https://vayana.com), where I analyze and interpret company's data to identify key patterns, trends and possible avenues for business growth strategies. 
 
 I am broadly interested in machine learning and its intersection with vision, language, healthcare, and other areas, with a focus on building inclusive and accessible language and vision models that can be applied across diverse domains and languages. 
 
