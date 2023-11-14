@@ -82,6 +82,31 @@ sections:
             * Optimized the website’s load time and increased its SEO performance by 30 % through media optimization and extensive keyword tagging.
     design:
       columns: '2'
+  - block: experience
+    id: research
+    content:
+      title: Research 
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Intern
+          company: Vayana Network
+          company_url: 'https://vayana.com/'
+          company_logo: vayana
+          location: Bengaluru, India | Full time, Hybrid
+          date_start: '2022-06-01'
+          date_end: ''
+          description: |-
+            * [Vayana Network](https://vayana.com) Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
+            * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
