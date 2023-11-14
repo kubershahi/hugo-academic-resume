@@ -47,11 +47,8 @@ sections:
           location: Bengaluru, India
           date_start: '2022-06-01'
           date_end: ''
-          description:
+          description: |2
             * Responsibilities include:
-            * Analysing
-            * Modelling
-            * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
