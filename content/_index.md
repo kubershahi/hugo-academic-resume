@@ -119,7 +119,7 @@ sections:
           company: CS Department, Ashoka University 
           company_url: 'https://cs.ashoka.edu.in/'
           company_logo: ashoka
-          location: Sonipat, India | Independent Study Moduels
+          location: Sonipat, India | Independent Study Modules
           date_start: '2021-01-01'
           date_end: '2022-05-31'
           description: |-
