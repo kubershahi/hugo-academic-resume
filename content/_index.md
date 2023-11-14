@@ -43,7 +43,7 @@ sections:
         - title: Data Scientist
           company: Vayana Network
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Bengaluru, India
           date_start: '2022-06-01'
           date_end: ''
