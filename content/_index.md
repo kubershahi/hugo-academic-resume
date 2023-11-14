@@ -57,7 +57,7 @@ sections:
           location: California, US | Remote
           date_start: '2021-11-01'
           date_end: '2022-03-31'
-          description: >
+          description: |-
             * Designed the architecture for a fitness recommendation application based on wearable devices and led the team toward implementing the first milestone.
             * Assessed the effectiveness of different anti-aging drugs and products endorsed by the company through analysis of customer feedback data.
     design:
