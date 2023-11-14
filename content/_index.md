@@ -98,7 +98,7 @@ sections:
         - title: Privacy-Preserving Machine Learning
           company: CS Department, Ashoka University 
           company_url: 'https://cs.ashoka.edu.in/'
-          company_logo: mphasis
+          company_logo: ashoka
           location: Sonipat, India | Capstone Project
           date_start: '2021-09-01'
           date_end: '2022-01-31'
