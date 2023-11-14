@@ -95,6 +95,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Privacy-Preserving Machine Learning
+          company: CS Department, Ashoka University 
+          company_url: 'https://cs.ashoka.edu.in/'
+          company_logo: mphasis
+          location: Sonipat, India | Capstone Project
+          date_start: '2021-09-01'
+          date_end: '2022-01-31'
+          description: |-
+            * Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
+            * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
         - title: Research Intern
           company: Mphasis Lab 
           company_url: 'https://ml2ct.ashoka.edu.in/en/'
