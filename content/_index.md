@@ -44,7 +44,7 @@ sections:
           company: Vayana Network
           company_url: 'https://vayana.com/'
           company_logo: vayana
-          location: Bengaluru, India
+          location: Bengaluru, India | Hybrid
           date_start: '2022-06-01'
           date_end: ''
           description: |2-
@@ -54,11 +54,12 @@ sections:
           company: Ageless Partners
           company_url: 'https://agelesspartners.com/'
           company_logo: ageless
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: California, US | Remote
+          date_start: '2021-11-01'
+          date_end: '2022-03-31'
           description: >
-            * Point 1 a;sdjfasdjf  alkjdfajsdfj la;kjdfja dlfj ;ajdfjasdfja sdfkljad fjajdf jkdfjaldjfajsdf;aljdflajsdf 
+            * Designed the architecture for a fitness recommendation application based on wearable devices and led the team toward implementing the first milestone.
+            * Assessed the effectiveness of different anti-aging drugs and products endorsed by the company through analysis of customer feedback data.
     design:
       columns: '2'
   # - block: accomplishments
