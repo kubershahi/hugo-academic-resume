@@ -54,7 +54,7 @@ sections:
         - title: Data Science Intern
           company: Ageless Partners
           company_url: ''
-          company_logo: mphasis
+          company_logo: ageless
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
