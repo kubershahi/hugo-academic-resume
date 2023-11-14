@@ -63,7 +63,7 @@ sections:
         - title: Undergraduate Teaching Assistant
           company: CS Department, Ashoka University 
           company_url: 'https://cs.ashoka.edu.in/'
-          # company_logo: ashoka
+          company_logo: ashoka
           # location: Sonipat, India
           date_start: '2020-08-01'
           # date_end: '2022-04-31'
