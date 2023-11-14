@@ -40,12 +40,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Scientist
-          company: Vayana Network
-          company_url: 'https://vayana.com/'
-          company_logo: org-V
-          location: Bengaluru, India
-          date_start: '2022-06-01'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
