@@ -54,7 +54,7 @@ sections:
         - title: Data Science Intern
           company: Ageless Partners
           company_url: ''
-          company_logo: techvik
+          company_logo: mphasis
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
