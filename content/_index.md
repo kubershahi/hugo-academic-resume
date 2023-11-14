@@ -76,7 +76,7 @@ sections:
           company_logo: techvik
           location: Lucknow, India | Remote
           date_start: '2020-06-01'
-          # date_end: '2020-09-31'
+          date_end: '2020-09-31'
           description: |-
             * Redesigned and remodeled the platform’s website on WIX, increasing the user traffic by up to 20 %.
             * Optimized the website’s load time and increased its SEO performance by 30 % through media optimization and extensive keyword tagging.
