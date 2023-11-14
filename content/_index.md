@@ -48,7 +48,7 @@ sections:
           date_start: '2022-06-01'
           date_end: ''
           description: |2-
-            * Analysing
+            * Analysing aadfafaldjfaljdf a;kdfadkfjasjdfalsjdf ;ajdfja;ldf asdlkjf ;lakjdfjas dfj
             * Modelling
             * Deploying
         - title: Data Science Intern
@@ -59,7 +59,7 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: >
-            * Point 1
+            * Point 1 a;sdjfasdjf  alkjdfajsdfj la;kjdfja dlfj ;ajdfjasdfja sdfkljad fjajdf jkdfjaldjfajsdf;aljdflajsdf 
     design:
       columns: '2'
   # - block: accomplishments
