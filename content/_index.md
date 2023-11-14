@@ -30,7 +30,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -47,7 +47,7 @@ sections:
           location: Bengaluru, India | Hybrid
           date_start: '2022-06-01'
           date_end: ''
-          description: |2-
+          description: |-
             * Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
             * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
         - title: Data Science Intern
