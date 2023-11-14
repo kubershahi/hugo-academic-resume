@@ -41,10 +41,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Data Scientist
-          company: GenCoin
+          company: Vayana Network
           company_url: ''
-          company_logo: org-gc
-          location: California
+          company_logo: org-v
+          location: Bengaluru
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
