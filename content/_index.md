@@ -48,9 +48,8 @@ sections:
           date_start: '2022-06-01'
           date_end: ''
           description: |2-
-            * Analysing aadfafaldjfaljdf a;kdfadkfjasjdfalsjdf ;ajdfja;ldf asdlkjf ;lakjdfjas dfj
-            * Modelling
-            * Deploying
+            * Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
+            * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
         - title: Data Science Intern
           company: Ageless Partners
           company_url: 'https://agelesspartners.com/'
