@@ -62,7 +62,7 @@ sections:
             * Assessed the effectiveness of different anti-aging drugs and products endorsed by the company through analysis of customer feedback data.
         - title: Undergraduate Teaching Assistant
           company: CS Department, Ashoka University 
-          company_url: 'https://agelesspartners.com/'
+          company_url: 'https://cs.ashoka.edu.in/'
           company_logo: ashoka
           location: Sonipat, India
           date_start: '2020-08-01'
