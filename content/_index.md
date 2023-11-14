@@ -44,7 +44,7 @@ sections:
           company: Vayana Network
           company_url: 'https://vayana.com/'
           company_logo: vayana
-          location: Bengaluru, India | Hybrid
+          location: Bengaluru, India | Full time, Hybrid
           date_start: '2022-06-01'
           date_end: ''
           description: |-
@@ -54,7 +54,7 @@ sections:
           company: Ageless Partners
           company_url: 'https://agelesspartners.com/'
           company_logo: ageless
-          location: California, US | Remote
+          location: California, US | Pari time, Remote
           date_start: '2021-11-01'
           date_end: '2022-03-31'
           description: |-
@@ -64,8 +64,8 @@ sections:
           company: CS Department, Ashoka University 
           company_url: 'https://cs.ashoka.edu.in/'
           company_logo: ashoka
-          location: Sonipat, India
-          date_start: '2020-08-01'
+          location: Sonipat, India | Full time
+          date_start: '2020-09-01'
           date_end: '2021-05-31'
           description: |-
             * Teaching Assistant for Discrete Mathematics course, offered in Spring 2021 semester by Professor Subhash Bhalla and Probability & Statistics course, offered in Monsoon 2020 semester by Professor Mahavir Jhawar.
@@ -74,9 +74,9 @@ sections:
           company: Techvik 
           company_url: 'https://www.linkedin.com/company/techvik-blog/'
           company_logo: techvik
-          location: Lucknow, India | Remote
+          location: Lucknow, India | Internship, Remote
           date_start: '2020-06-01'
-          date_end: '2020-09-31'
+          date_end: '2020-08-31'
           description: |-
             * Redesigned and remodeled the platform’s website on WIX, increasing the user traffic by up to 20 %.
             * Optimized the website’s load time and increased its SEO performance by 30 % through media optimization and extensive keyword tagging.
