@@ -115,6 +115,16 @@ sections:
           description: |-
             * [Vayana Network](https://vayana.com) Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
             * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
+        - title: Secure ML & Applied Cryptography
+          company: CS Department, Ashoka University 
+          company_url: 'https://cs.ashoka.edu.in/'
+          company_logo: ashoka
+          location: Sonipat, India | Independent Study Moduels
+          date_start: '2021-01-01'
+          date_end: '2022-05-31'
+          description: |-
+            * Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
+            * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
     design:
       columns: '2'
   # - block: accomplishments
