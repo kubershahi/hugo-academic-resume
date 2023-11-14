@@ -42,15 +42,15 @@ sections:
       items:
         - title: Data Scientist
           company: Vayana Network
-          company_url: ''
+          company_url: 'https://vayana.com/'
           company_logo: org-v
           location: Bengaluru, India
           date_start: '2022-06-01'
           date_end: ''
           description: |2-
-              * Analysing
-              * Modelling
-              * Deploying
+            * Analysing
+            * Modelling
+            * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
