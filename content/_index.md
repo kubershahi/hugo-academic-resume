@@ -51,8 +51,8 @@ sections:
             * Analysing
             * Modelling
             * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Data Science Intern
+          company: Ageless Partners
           company_url: ''
           company_logo: org-x
           location: California
