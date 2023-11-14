@@ -53,12 +53,12 @@ sections:
             * Deploying
         - title: Data Science Intern
           company: Ageless Partners
-          company_url: ''
+          company_url: 'https://agelesspartners.com/'
           company_logo: ageless
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 
     design:
       columns: '2'
   # - block: accomplishments
