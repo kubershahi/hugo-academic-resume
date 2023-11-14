@@ -44,8 +44,8 @@ sections:
           company: Vayana Network
           company_url: ''
           company_logo: org-gc
-          location: Bengaluru
-          date_start: '2021-01-01'
+          location: Bengaluru, India
+          date_start: '2022-06-01'
           date_end: ''
           description: |2-
               Responsibilities include:
