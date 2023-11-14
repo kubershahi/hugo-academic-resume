@@ -60,13 +60,13 @@ sections:
           description: |-
             * Designed the architecture for a fitness recommendation application based on wearable devices and led the team toward implementing the first milestone.
             * Assessed the effectiveness of different anti-aging drugs and products endorsed by the company through analysis of customer feedback data.
-        # - title: Undergraduate Teaching Assistant
-        #   company: CS Department, Ashoka University 
-        #   company_url: 'https://agelesspartners.com/'
-        #   company_logo: ageless
-        #   location: California, US | Remote
-        #   date_start: '2021-11-01'
-        #   date_end: '2022-03-31'
+        - title: Undergraduate Teaching Assistant
+          company: CS Department, Ashoka University 
+          company_url: 'https://agelesspartners.com/'
+          company_logo: ashoka
+          location: Sonipat, India
+          date_start: '2020-08-01'
+          date_end: '2022-04-31'
         #   description: |-
         #     * Teaching Assistant for Discrete Mathematics course, offered in Spring 2021 semester by Professor Subhash Bhalla and Probability & Statistics course, offered in Monsoon 2020 semester by Professor Mahavir Jhawar.
         #     * Responsibilities included assisting in conducting online classes, grading student submissions, conducting lab hours, and holding office hours to clarify student doubts.
