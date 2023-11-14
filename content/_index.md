@@ -96,12 +96,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: Vayana Network
-          company_url: 'https://vayana.com/'
-          company_logo: vayana
-          location: Bengaluru, India | Full time, Hybrid
-          date_start: '2022-06-01'
-          date_end: ''
+          company: Mphasis Lab 
+          company_url: 'https://ml2ct.ashoka.edu.in/en/'
+          company_logo: mphasis
+          location: Sonipat, India | Internship
+          date_start: '2021-06-01'
+          date_end: '2021-08-31'
           description: |-
             * [Vayana Network](https://vayana.com) Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
             * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
