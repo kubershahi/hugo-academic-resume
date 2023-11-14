@@ -66,20 +66,20 @@ sections:
           company_logo: ashoka
           location: Sonipat, India
           date_start: '2020-08-01'
-          date_end: '2021-10-31'
-        #   description: |-
-        #     * Teaching Assistant for Discrete Mathematics course, offered in Spring 2021 semester by Professor Subhash Bhalla and Probability & Statistics course, offered in Monsoon 2020 semester by Professor Mahavir Jhawar.
-        #     * Responsibilities included assisting in conducting online classes, grading student submissions, conducting lab hours, and holding office hours to clarify student doubts.
-        # - title: Web Developer
-        #   company: Techvik 
-        #   company_url: 'https://www.linkedin.com/company/techvik-blog/'
-        #   company_logo: techvik
-        #   location: Lucknow, India | Remote
-        #   date_start: '2020-06-01'
-        #   date_end: '2020-09-31'
-        #   description: |-
-        #     * Redesigned and remodeled the platform’s website on WIX, increasing the user traffic by up to 20 %.
-        #     * Optimized the website’s load time and increased its SEO performance by 30 % through media optimization and extensive keyword tagging.
+          date_end: '2021-04-31'
+          description: |-
+            * Teaching Assistant for Discrete Mathematics course, offered in Spring 2021 semester by Professor Subhash Bhalla and Probability & Statistics course, offered in Monsoon 2020 semester by Professor Mahavir Jhawar.
+            * Responsibilities included assisting in conducting online classes, grading student submissions, conducting lab hours, and holding office hours to clarify student doubts.
+        - title: Web Developer
+          company: Techvik 
+          company_url: 'https://www.linkedin.com/company/techvik-blog/'
+          company_logo: techvik
+          location: Lucknow, India | Remote
+          date_start: '2020-06-01'
+          # date_end: '2020-09-31'
+          description: |-
+            * Redesigned and remodeled the platform’s website on WIX, increasing the user traffic by up to 20 %.
+            * Optimized the website’s load time and increased its SEO performance by 30 % through media optimization and extensive keyword tagging.
     design:
       columns: '2'
   # - block: accomplishments
