@@ -66,7 +66,7 @@ sections:
           company_logo: ashoka
           location: Sonipat, India
           date_start: '2020-08-01'
-          # date_end: '2021-04-31'
+          date_end: '2021-04-31'
         #   description: |-
         #     * Teaching Assistant for Discrete Mathematics course, offered in Spring 2021 semester by Professor Subhash Bhalla and Probability & Statistics course, offered in Monsoon 2020 semester by Professor Mahavir Jhawar.
         #     * Responsibilities included assisting in conducting online classes, grading student submissions, conducting lab hours, and holding office hours to clarify student doubts.
