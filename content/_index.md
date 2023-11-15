@@ -101,10 +101,14 @@ sections:
           company_logo: ashoka
           location: Sonipat, India | Capstone Project
           date_start: '2021-09-01'
-          date_end: '2022-01-31'
+          date_end: '2022-01-31' 
           description: |-
-            * Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
-            * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
+            * Mentors: [Prof. Mahavir Jhawar](https://sites.google.com/site/homeofmahavir/Home) & [Prof. Debayan Gupta](https://debayangupta.com/)
+            * Researched and explored various methods and techniques for securely and efficiently training neural networks in multi-party settings (MPC).
+            * Thoroughly analyzed and implemented( in C++) the SecureNN paper for my Capstone Project
+          links: 
+            - icon: twitter
+            - name: follow
         - title: Research Intern
           company: Mphasis Lab 
           company_url: 'https://ml2ct.ashoka.edu.in/en/'
