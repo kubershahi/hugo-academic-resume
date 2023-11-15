@@ -106,13 +106,7 @@ sections:
             * Mentors: [Prof. Mahavir Jhawar](https://sites.google.com/site/homeofmahavir/Home) & [Prof. Debayan Gupta](https://debayangupta.com/)
             * Researched and explored various methods and techniques for securely and efficiently training neural networks in multi-party settings (MPC).
             * Thoroughly analyzed and implemented( in C++) the SecureNN paper for my Capstone Project
-            * Report | Code | Presentation
-            <p>
-            <a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view" target="_blank"> <img src="https://img.shields.io/badge/Presentation-8A2BE2"/></a> <a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view" target="_blank"> <img src="https://img.shields.io/badge/Report-8A2BE2"/></a> <a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view" target="_blank"> <img src="https://img.shields.io/badge/Code-8A2BE2"/></a>
-            </p>
-          links: 
-            - icon: twitter
-            - name: follow
+            * [Presentation](https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view) | [Report](https://drive.google.com/file/d/1JFLW0w2Oa1HfzXtYYAXC0Qk_HXl9MO2p/view) | [Code](https://github.com/kubershahi/ashoka-capstone) 
         - title: Research Intern
           company: Mphasis Lab 
           company_url: 'https://ml2ct.ashoka.edu.in/en/'
