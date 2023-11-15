@@ -1,12 +1,12 @@
 ---
 title: News Headline Generation
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Mentor: Explored various abstractive text summarization techniques and finetuned Google’s Pegasus model with 568 million parameters using PyTorch to generate concise headlines from summaries of local news articles. [Presentation](https://drive.google.com/file/d/1JKyANl5UCGa7KxztOPjkXjvFzRliFAwf/view) | [Code](https://github.com/kubershahi/ashoka-aml)
 tags:
-  - NLP
+  - ml
 date: "2022-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://huggingface.co/kubershahi/pegasus-inshorts
 
 image:
   caption: Photo by Tubolab
