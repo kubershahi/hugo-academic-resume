@@ -54,7 +54,7 @@ sections:
           company: Ageless Partners
           company_url: 'https://agelesspartners.com/'
           company_logo: ageless
-          location: California, US | Pari time, Remote
+          location: California, US | Part time, Remote
           date_start: '2021-11-01'
           date_end: '2022-03-31'
           description: |-
