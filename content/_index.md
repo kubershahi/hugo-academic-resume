@@ -107,7 +107,11 @@ sections:
             * Researched and explored various methods and techniques for securely and efficiently training neural networks in multi-party settings (MPC).
             * Thoroughly analyzed and implemented( in C++) the SecureNN paper for my Capstone Project
             * Report | Code | Presentation
-            <div><a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view" target="_blank"> <img src="https://img.shields.io/badge/Presentation-8A2BE2"/></a></div>
+            <div>
+            <a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view" target="_blank"> <img src="https://img.shields.io/badge/Presentation-8A2BE2"/></a>
+            <a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view" target="_blank"> <img src="https://img.shields.io/badge/Report-8A2BE2"/></a>
+            <a href="https://drive.google.com/file/d/1JFS6bBeWm4UlAQ_fubEqCSSNgYww8_8V/view" target="_blank"> <img src="https://img.shields.io/badge/Code-8A2BE2"/></a>
+            </div>
           links: 
             - icon: twitter
             - name: follow
