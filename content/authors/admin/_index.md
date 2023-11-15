@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PG Diploma in Advanced Studies and Research (CS)
+    - course: PG Diploma in Advanced Studies and Research (DipASR) in CS
       institution: Ashoka University, India
       year: 2022
     - course: BSc (Hons) in CS
