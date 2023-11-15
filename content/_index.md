@@ -49,7 +49,7 @@ sections:
           date_end: ''
           description: |-
             * Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
-            * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
+            * Investigating the company's business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company's business growth strategies.
         - title: Data Science Intern
           company: Ageless Partners
           company_url: 'https://agelesspartners.com/'
@@ -106,6 +106,7 @@ sections:
             * Mentors: [Prof. Mahavir Jhawar](https://sites.google.com/site/homeofmahavir/Home) & [Prof. Debayan Gupta](https://debayangupta.com/)
             * Researched and explored various methods and techniques for securely and efficiently training neural networks in multi-party settings (MPC).
             * Thoroughly analyzed and implemented( in C++) the SecureNN paper for my Capstone Project
+            * Report | Code | Presentation
           links: 
             - icon: twitter
             - name: follow
