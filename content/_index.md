@@ -115,8 +115,10 @@ sections:
           date_start: '2021-06-01'
           date_end: '2021-08-31'
           description: |-
-            * [Vayana Network](https://vayana.com) Processing and managing the company’s data efficiently and securely by building a central data repository on AWS through data pipelines and internal libraries.
-            * Investigating the company’s business network through data analysis and graph modeling to identify key patterns, trends, and potential customers shaping the company’s business growth and strategy.
+            * Mentor: [Prof. Mahavir Jhawar](https://sites.google.com/site/homeofmahavir/Home)
+            * Successfully studied and implemented (in C++) different PPML (Privacy Preserving Machine Learning) protocols such as SecureML and BLAZE highlighting their merits and demerits
+            * Designed a faster protocol tailored to meet business requirements by developing a novel algorithm to securely evaluate non-linear functions using arithmetic shares.
+            * [Details](https://ml2ct.ashoka.edu.in/en/research-groups/archived/privacy-preserving-machine-learning/) | [Code](https://github.com/kubershahi/mphasis_ppml)
         - title: Secure ML & Applied Cryptography
           company: CS Department, Ashoka University 
           company_url: 'https://cs.ashoka.edu.in/'
