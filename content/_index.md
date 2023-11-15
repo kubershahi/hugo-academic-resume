@@ -215,6 +215,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Machine Learning
+          tag: ml
+        - name: Data Analysis
+          tag: da
+        - name: Cryptography
+          tag: crypto
         - name: Deep Learning
           tag: Deep Learning
         - name: Other
