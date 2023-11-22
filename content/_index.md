@@ -128,7 +128,7 @@ sections:
           date_end: '2022-05-31'
           description: |-
             * Mentors: [Prof. Debayan Gupta](https://debayangupta.com/) for Secure ML & [Prof. Mahavir Jhawar](https://sites.google.com/site/homeofmahavir/Home) for Applied Cryptography
-            * Secure ML: Studied and demonstrated the impact of Data Poisoning attacks on the performance and reliability omachine learning (ML) models. [Presentation](https://drive.google.com/file/d/1JPf0sTzcB3c_PVW-k8DXiCt2MOkmAww4/view) | [Code](https://github.com/kubershahi/ashoka-secureml)
+            * Secure ML: Studied and demonstrated the impact of Data Poisoning attacks on the performance and reliability of machine learning (ML) models. [Presentation](https://drive.google.com/file/d/1JPf0sTzcB3c_PVW-k8DXiCt2MOkmAww4/view) | [Code](https://github.com/kubershahi/ashoka-secureml)
             * Applied Cryptography: Evaluated and illustrated the security vulnerabilities in email clients that support the two primary forms of end-to-end email encryption (OpenPGP and S/MIME) and suggested countermeasures against them. [Report](https://drive.google.com/file/d/1Jgb1thphAf9mahwAORPcuwF-_jH0lWi_/view) | [Code](https://github.com/kubershahi/ashoka-applied-cryptography)
     design:
       columns: '2'
