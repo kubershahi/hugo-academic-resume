@@ -219,8 +219,8 @@ sections:
           tag: ml
         - name: Data Analysis
           tag: da
-        - name: Blockchain
-          tag: bc
+        - name: Crypto
+          tag: cp
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
